@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HealthDataLogger_CSharp", "HealthDataLogger_CSharp\HealthDataLogger_CSharp.csproj", "{BBBD9B8E-B8D0-4DEA-911A-E91BFD71209E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBBD9B8E-B8D0-4DEA-911A-E91BFD71209E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBBD9B8E-B8D0-4DEA-911A-E91BFD71209E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBBD9B8E-B8D0-4DEA-911A-E91BFD71209E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBBD9B8E-B8D0-4DEA-911A-E91BFD71209E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9E803788-E051-4F4E-A5EA-0D0C023906E2}
+	EndGlobalSection
+EndGlobal
